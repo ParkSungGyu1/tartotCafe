@@ -5,11 +5,14 @@ const urlParameter = window.location.search;
 console.log(urlParameter);
 
 const urlParams = new URLSearchParams(urlParameter);
+const number = urlParams.get('num');
 
-console.log(urlParams.get('num'));
+if(number === null || number === ''){
+    number = 0;
+}
 
 let dataArr = data;
-let cardData = dataArr[0];
+let cardData = dataArr[number];
 
 $("#mainDesc").append(
     `<div class="text-center">
