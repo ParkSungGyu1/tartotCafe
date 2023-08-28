@@ -1,6 +1,12 @@
 import data from './cards.js';
 
 console.log(data);
+const urlParameter = window.location.search;
+console.log(urlParameter);
+
+const urlParams = new URLSearchParams(urlParameter);
+
+console.log(urlParams.get('num'));
 
 let dataArr = data;
 let cardData = dataArr[0];
