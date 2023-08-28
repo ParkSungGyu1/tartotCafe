@@ -3,7 +3,7 @@ import data from './cards.js';
 console.log(data);
 
 let dataArr = data;
-let cardData = dataArr.get[0];
+let cardData = dataArr[0];
 
 $("#mainDesc").append(
     `<div class="text-center">
