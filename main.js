@@ -7,9 +7,6 @@ console.log(urlParameter);
 const urlParams = new URLSearchParams(urlParameter);
 const number = urlParams.get('num');
 
-if(number === null || number === ''){
-    number = 0;
-}
 
 let dataArr = data;
 let cardData = dataArr[number];
