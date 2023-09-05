@@ -31,8 +31,8 @@ export default[
     },
     {
         "cardNum" : "5",
-        "cardName" : "https://mblogthumb-phinf.pstatic.net/20110624_59/itowa2_1308843978681xEpar_JPEG/05.jpg?type=w2",
-        "imgUrl" : "THE HIEROPHANT",
+        "cardName" : "THE HIEROPHANT",
+        "imgUrl" : "https://mblogthumb-phinf.pstatic.net/20110624_59/itowa2_1308843978681xEpar_JPEG/05.jpg?type=w2",
         "desc" : "조금은 답답하지만 도덕적이고 바른생활 맨이며 편안한 스타일이다. 말수가 적고 법을 잘 지키는 보수성향이 강한 형식을 중요시하는 그런 사람입니다."
     },
     {
