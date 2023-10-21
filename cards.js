@@ -3,20 +3,20 @@ export default[
         "cardNum" : "0",
         "cardName" : "THE FOOL",
         "imgUrl" : "https://mblogthumb-phinf.pstatic.net/20110624_229/itowa2_1308843977777Mlz97_JPEG/00.jpg?type=w2",
-        "desc" : "THE FOOL 카드는 두려움 없이 앞으로 나아 가는 카드입니다. 오늘 하루는 하고자 하는 일에 용기를 가지고 나서보세요."
+        "desc" : "THE FOOL 카드는 두려움 없이 앞으로 나아 가는 카드입니다. 오늘 하루는 하고자 하는 일에 용기를 가지고 나서보세요. 두려움 없는 하루가 되길 기원합니다."
     },
     {
         "cardNum" : "1",
         "cardName" : "THE MAGICIAN",
         "imgUrl" : "https://mblogthumb-phinf.pstatic.net/20110624_62/itowa2_1308843977966VT7VU_JPEG/01.jpg?type=w2",
-        "desc" : "당신은 활달하고 결단력이 있으며 쇼맨쉽이 강한 리더형의 인기인입니다. 언변이 능숙해서 다소 과장되게 표현하여 잘못하면 허세꾼으로 보일 수도 있지만 총명하고 유능하며 융통성있는 재주꾼입니다."
+        "desc" : "오늘 당신은 THE MAGICIAN! 마법사 같은 능력자 입니다! 평소 꿈꿔오던 이상형을 만날 수 있고, 하는 일에 있어서는 성공을 불러올 것입니다. 다만, 자만하지 않는 하루가 되길 바라겠습니다."
     },
     {
         "cardNum" : "2",
         "cardName" : "THE HIGH PRIESTESS",
         "imgUrl" : "https://mblogthumb-phinf.pstatic.net/20110624_142/itowa2_1308843978159dzsgb_JPEG/02.jpg?type=w2",
-        "desc" : "고도로 발달된 직관을 가진 사람으로 상담이나 조언을 할 수 있는 성향이며 현명하고 지혜롭다. 앉아서 머리를 쓰는 지성미는 있지만 결정장애에 부딪히기도 한다. 고집세고 까칠한 성향이 밉지않은 새침한 아가씨 이미지로 보인다."
-    },
+        "desc" : "THE HIGH PRIESTESS(여사제) 카드는 고민과 관련된 카드입니다. 검은 기둥과 흰색 기둥 사이에서 고민하는 여사제의 모습처럼 고민이 많은 하루가 될 것입니다. 하지만, 당신의 선택이 곧 답이니 믿고 움직이세요."
+    },  
     {
         "cardNum" : "3",
         "cardName" : "THE EMPRESS",
