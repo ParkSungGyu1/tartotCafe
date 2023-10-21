@@ -3,7 +3,7 @@ export default[
         "cardNum" : "0",
         "cardName" : "THE FOOL",
         "imgUrl" : "https://mblogthumb-phinf.pstatic.net/20110624_229/itowa2_1308843977777Mlz97_JPEG/00.jpg?type=w2",
-        "desc" : "당신은 낙천적이고 스트레스없는 스타일의 두려움을 모르는 순수하고 어린애같은 타입입니다. 별로 걱정이 없고 그래서 어떤 일이라도 할 수 있는 용기를 가진, 10대의 마음으로 사는 타입이라고 보입니다. 화려한 옷은 탁월한 패션감각을 돋보이게 합니다."
+        "desc" : "THE FOOL 카드는 두려움 없이 앞으로 나아 가는 카드입니다. 오늘 하루는 하고자 하는 일에 용기를 가지고 나서보세요."
     },
     {
         "cardNum" : "1",
