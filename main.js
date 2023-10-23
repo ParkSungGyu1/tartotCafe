@@ -18,6 +18,6 @@ $("#mainDesc").append(
   <h1>${cardData.cardName}</h1>
   <p class="lead">${cardData.desc}</p>
   <p class="lead">
-    <a href="http://pf.kakao.com/_NxexgTG" class="btn btn-lg btn-light fw-bold border-white bg-white">타로 전문상담</a>
+    <a href="http://pf.kakao.com/_NxexgTG/chat" class="btn btn-lg btn-light fw-bold border-white bg-white">타로 전문상담</a>
   </p>`
 )
