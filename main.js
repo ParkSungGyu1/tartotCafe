@@ -1,8 +1,6 @@
 import data from './cards.js';
 
-console.log(data);
 const urlParameter = window.location.search;
-console.log(urlParameter);
 
 const urlParams = new URLSearchParams(urlParameter);
 const number = urlParams.get('num');
@@ -18,6 +16,6 @@ $("#mainDesc").append(
   <h1>${cardData.cardName}</h1>
   <p class="lead">${cardData.desc}</p>
   <p class="lead">
-    <a href="http://pf.kakao.com/_NxexgTG" class="btn btn-lg btn-light fw-bold border-white bg-white">타로 전문상담</a>
+    <a href="mbti.html" class="btn btn-lg btn-light fw-bold border-white bg-white">MBTI와 타로!</a>
   </p>`
 )
