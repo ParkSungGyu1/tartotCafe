@@ -26,7 +26,7 @@ document.querySelectorAll(".mbti-card").forEach(card => {
             document.getElementById("tarot-image").src = tarot.img;
             
             document.getElementById("mbti-title").textContent = mbtiType + "인 당신!";
-            document.getElementById("tarot-title").textContent = tarot.title + "와 닮았습니다.";
+            document.getElementById("tarot-title").textContent = tarot.title + "의 성격과 닮았습니다.";
             document.getElementById("tarot-description").textContent = tarot.desc;
 
             document.getElementById("tarot-title2").textContent = mbtiType+"의 특징";
