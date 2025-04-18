@@ -15,6 +15,22 @@ $("#mainDesc").append(
   </div>
   <h1>${cardData.cardName}</h1>
   <p class="lead">${cardData.desc}</p>
+  <br>
+  <br>
+  <h2>${cardData.cardName}의 성격</h2>
+  <p class="lead">${cardData.personality}</p>
+  <br>
+  <br>
+  <h2>${cardData.cardName}의 연애타입</h2>
+  <p class="lead">${cardData.love}</p>
+  <br>
+  <br>
+  <h2>${cardData.cardName}의 직업타입</h2>
+  <p class="lead">${cardData.job}</p>
+  <br>
+  <br>
+  <h2>${cardData.cardName}의 건강조심</h2>
+  <p class="lead">${cardData.health}</p>
   <p class="lead">
     <a href="mbti.html" class="btn btn-lg btn-light fw-bold border-white bg-white">MBTI와 타로!</a>
   </p>`
